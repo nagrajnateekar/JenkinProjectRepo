@@ -3,7 +3,7 @@ package com.chrome;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
-
+@Test
 public class TesstngDemo {
 	
 	static WebDriver driver;
